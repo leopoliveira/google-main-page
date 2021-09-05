@@ -1,5 +1,5 @@
 # google-main-page
-Project using HTML and CSS. This is my first projetct using @media functions.
+Training project using HTML and CSS. This is my first projetct using @media functions.
 
 ![Screenshot](google-main-page.PNG)
 
